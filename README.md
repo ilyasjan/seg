@@ -1,6 +1,7 @@
 # seg
 
-FIXME
+Chinese , Uyghur segmentation Clojure app
+
 
 ## Prerequisites
 
@@ -16,4 +17,6 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2015 FIXME
+MIT License....
+
+Copyright © 2015 Yusup Ashrap
